@@ -1,5 +1,8 @@
 # FatmanEvolutionaryModel
 
+Outputs graphs (in the gml format), each describing an intermediate state in the model.
+Done as a part of the NPTEL Social Networks course https://nptel.ac.in/courses/106/106/106106169/
+
 # Fatman Hypothesis :
 - If a person's friend is obese, then s/he is likely to become obese too.
 
